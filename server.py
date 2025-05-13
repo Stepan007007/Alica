@@ -127,5 +127,5 @@ def get_suggests(user_id):
     return suggests
 
 
-if name == '__main__':
+if __name__ == '__main__':
     app.run()
